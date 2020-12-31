@@ -1,2 +1,10 @@
 # Object-Dectection-with-Images-Videos-and-Live-Camera
 Using OpenCV library and Python to implement this application.
+
+List of labels to download 
+https://www.youtube.com/redirect?v=RFqvTmEFtOE&redir_token=QUFFLUhqbEN0MDMyU0xFbWZJaHJnRTk3cndESnVIZXBiQXxBQ3Jtc0tuamU2X095V092T1RJUzJXN3lOV0VEME9kNzA0ZWt1X1V5VXU1MHhvVkFyZEtmUENCcFRrX1k4ejUtVzAwV0RsVHZkeTJQVmxFc09rNm9wZEg4RTBJT1NGeEs1RkFiZW5FanltZ2NZQW1HaTg5bEY5dw%3D%3D&event=video_description&q=https%3A%2F%2Fgithub.com%2Fpjreddie%2Fdarknet%2Fblob%2Fmaster%2Fdata%2Fcoco.names
+
+Configuration file 
+https://www.youtube.com/redirect?v=RFqvTmEFtOE&redir_token=QUFFLUhqa3pHQXFIb3NVRWoxX3NoZFhmNlROdE4yeGl6d3xBQ3Jtc0treDROeVpaMm5jb2FtcldCbzdSQndPNGxhX2xkZEpmVTloZ2NrNnNKa01GRy0yQnVGVWZUYl8wYWxNLWV2dHlULUE3UlZBYlc5N2VyeWRrakVRN09pTlFLcWZnVEQ3VVFNVFFkWERkWXM5X2RzOWFfWQ%3D%3D&event=video_description&q=https%3A%2F%2Fgist.github.com%2Fdkurt%2F54a8e8b51beb3bd3f770b79e56927bd7
+
+Credit: DeepLearning_by_PhDScholar
